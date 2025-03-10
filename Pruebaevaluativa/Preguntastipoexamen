@@ -1,0 +1,19 @@
+1. Secuencia correcta de operaciones para calcular el costo de producción:
+
+Respuesta: c) 
+ 
+ 
+2. Expresión correcta para calcular el precio de venta de una barra de chocolate:
+ 
+Respuesta: a)
+ 
+ 
+3. Si la fábrica produce 37 barras en un día, 
+¿cuántas cajas completas se pueden empacar y cuántas barras quedan sueltas?
+ 
+
+Cajas completas: 37 div 10 = 3
+ 
+Barras sueltas: 37 mod 10 = 7
+ 
+Respuesta: b)
